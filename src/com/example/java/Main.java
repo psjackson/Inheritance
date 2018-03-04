@@ -90,7 +90,7 @@ public class Main {
     }
 
     private static void residential() {
-        //create a multiProperty variable that will hold if a multi-property discount is applicable for the client
+        //create a senior variable that will hold if a senior discount is applicable for the client
         boolean senior;
         //initiate scanner to be able to get input from the user
         Scanner scanner = new Scanner(System.in);
